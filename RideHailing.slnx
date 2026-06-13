@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/benchmarks/">
+    <Project Path="benchmarks/RideHailing.Benchmarks/RideHailing.Benchmarks.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/RideHailing.Core/RideHailing.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/RideHailing.Core.Tests/RideHailing.Core.Tests.csproj" />
+  </Folder>
+</Solution>

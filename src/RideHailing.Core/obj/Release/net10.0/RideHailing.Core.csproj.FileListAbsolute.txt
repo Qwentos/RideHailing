@@ -1,0 +1,11 @@
+D:\Projects\RideHailing\src\RideHailing.Core\bin\Release\net10.0\RideHailing.Core.deps.json
+D:\Projects\RideHailing\src\RideHailing.Core\bin\Release\net10.0\RideHailing.Core.dll
+D:\Projects\RideHailing\src\RideHailing.Core\bin\Release\net10.0\RideHailing.Core.pdb
+D:\Projects\RideHailing\src\RideHailing.Core\obj\Release\net10.0\RideHailing.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\RideHailing\src\RideHailing.Core\obj\Release\net10.0\RideHailing.Core.AssemblyInfoInputs.cache
+D:\Projects\RideHailing\src\RideHailing.Core\obj\Release\net10.0\RideHailing.Core.AssemblyInfo.cs
+D:\Projects\RideHailing\src\RideHailing.Core\obj\Release\net10.0\RideHailing.Core.csproj.CoreCompileInputs.cache
+D:\Projects\RideHailing\src\RideHailing.Core\obj\Release\net10.0\RideHailing.Core.dll
+D:\Projects\RideHailing\src\RideHailing.Core\obj\Release\net10.0\refint\RideHailing.Core.dll
+D:\Projects\RideHailing\src\RideHailing.Core\obj\Release\net10.0\RideHailing.Core.pdb
+D:\Projects\RideHailing\src\RideHailing.Core\obj\Release\net10.0\ref\RideHailing.Core.dll
